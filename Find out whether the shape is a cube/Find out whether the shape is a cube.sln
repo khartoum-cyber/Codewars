@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find out whether the shape is a cube", "Find out whether the shape is a cube.csproj", "{5985A982-A46A-45C9-8C2C-465F15B1E950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5985A982-A46A-45C9-8C2C-465F15B1E950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5985A982-A46A-45C9-8C2C-465F15B1E950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5985A982-A46A-45C9-8C2C-465F15B1E950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5985A982-A46A-45C9-8C2C-465F15B1E950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9955946-2AE7-4355-80C2-9605BD46CF40}
+	EndGlobalSection
+EndGlobal
