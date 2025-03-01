@@ -1,0 +1,11 @@
+        public static int AdjacentElementsProduct(int[] array)
+        {
+            List<int> list = new List<int>();
+
+            for (int i = 0; i < array.Length - 1; i++)
+            {
+                list.Add(array[i] * array[i + 1]);
+            }
+
+            return list.Max();
+        }
